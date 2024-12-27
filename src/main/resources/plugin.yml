@@ -4,3 +4,5 @@ main: com.github.roitoayanokoji.dice_ver13.Dice_ver13
 api-version: '1.20'
 authors: [ roitoayanokoji ]
 description: dice-plugin-ver1.1
+commands:
+  dice:
